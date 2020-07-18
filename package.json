@@ -1,0 +1,30 @@
+{
+  "name": "fitnesstracker",
+  "version": "1.0.0",
+  "description": "Midz's Fitness Tracker allows uses to add a work out and then complete it. They are also able to view a dashboard with completed workouts. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "text",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidzZCoder/Fitness-Tracker.git"
+  },
+  "keywords": [
+    "Full-stack",
+    "Mongo",
+    "Node"
+  ],
+  "author": "Midz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MidzZCoder/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/MidzZCoder/Fitness-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "morgan": "^1.10.0"
+  }
+}
