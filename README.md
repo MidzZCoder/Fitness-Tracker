@@ -2,7 +2,7 @@
 The Fitness Tracker app lets users save their workouts and view a dashboard where they can view all the exercises that they have completed. 
 
 ## Deployed Application 
-Check out the live app by [clicking here]().
+Check out the live app by [clicking here](https://midz-fitnesstracker.herokuapp.com/).
 
 ## Technology and Frameworks Used
 HTML
